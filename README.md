@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @mourafaela
 - 👀 I’m interested in programming, learning languages and music
-- 🌱 I’m currently learning python and norwegian
-- 🌱 I'm an English Teacher
 - 🌱 I'm studying Systems Development and Analysis
-- 💞️ I’m looking for tips ;p
+- 🩷 I work in Software Engineering 
 - 📫 How to reach me rafaela03moura@gmail.com
 
 <!---
